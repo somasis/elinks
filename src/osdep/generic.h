@@ -8,7 +8,7 @@
 #endif
 
 #ifdef HAVE_SYS_SIGNAL_H
-#include <sys/signal.h> /* may contain SA_RESTART */
+#include <signal.h> /* may contain SA_RESTART */
 #endif
 
 #ifdef HAVE_STDDEF_H
