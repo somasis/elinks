@@ -397,7 +397,7 @@ Michael R. Elkins <me@cs.hmc.edu>
 	Original mailcap code from Mutt
 
 Michail Litvak <mci@owl.openwall.com>
-	Patch configure.in to force error if OpenSSL not found
+	Patch configure.ac to force error if OpenSSL not found
 
 Michal Maruska <mmc@maruska.dyndns.org>
 	Show actual document's URL in xterm title bar
